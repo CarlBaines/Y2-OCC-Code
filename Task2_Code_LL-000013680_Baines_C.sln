@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Code_LL-000013680_Baines_C", "Task2_Code_LL-000013680_Baines_C\Task2_Code_LL-000013680_Baines_C.csproj", "{A5AD8CBE-BDF8-4BB6-B492-F14C2D5B6835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AD8CBE-BDF8-4BB6-B492-F14C2D5B6835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AD8CBE-BDF8-4BB6-B492-F14C2D5B6835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AD8CBE-BDF8-4BB6-B492-F14C2D5B6835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AD8CBE-BDF8-4BB6-B492-F14C2D5B6835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19943333-F777-4634-8A91-9351C1371934}
+	EndGlobalSection
+EndGlobal
